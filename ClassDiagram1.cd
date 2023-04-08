@@ -1,2 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SLVP_OOVerden_Bestik.Bestik">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACAAAAAAAAAAAAAAAAAAAACAAAAAACAAAAEAAAAE=</HashCode>
+      <FileName>Bestik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SLVP_OOVerden_Bestik.Gaffel">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Gaffel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SLVP_OOVerden_Bestik.Kniv">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAEAAAAA=</HashCode>
+      <FileName>Kniv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SLVP_OOVerden_Bestik.Ske">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Ske.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

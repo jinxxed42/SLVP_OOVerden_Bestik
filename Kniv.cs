@@ -23,7 +23,8 @@ namespace SLVP_OOVerden_Bestik
 
         public override void Info()
         {
-            Console.WriteLine("Kniv med størrelse " + Størrelse + "cm lavet af " + Materiale + " med et håndtag af " + Håndtag + ". " + (GrillKniv ? "Den er med grilltænder. " : "Den er uden grilltænder. ") + (Rent ? "Den er ren." : "Den er beskidt."));
+            Console.WriteLine("Kniv med størrelse " + Størrelse + "cm lavet af " + Materiale + " med et håndtag af " + Håndtag + ". " + 
+                (GrillKniv ? "Den er med grilltænder. " : "Den er uden grilltænder. ") + (Rent ? "Den er ren." : "Den er beskidt."));
         }
     }
 }
